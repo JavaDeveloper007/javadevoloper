@@ -5,7 +5,7 @@
 
 # Skills:
 * PYTHON
-* MYSQL / SQLITE/ POSTGRESQL 
+* MYSQL / SQLITE / POSTGRESQL 
 * PHP / JS / HTML / CSS
 
 # Having experience in PYTHON 
