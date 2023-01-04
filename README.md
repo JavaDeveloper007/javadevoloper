@@ -2,8 +2,8 @@
 
 # hi👋, i am  Javohir Farmonov
 # Back-End and Front-End Developer
-% ewewe
-#Skills:
+
+# Skills:
 * PYTHON
 * MYSQL / SQLITE/ POSTGRESQL 
 * PHP / JS / HTML / CSS
