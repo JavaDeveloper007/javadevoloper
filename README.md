@@ -6,9 +6,9 @@
 # Skills:
 * PYTHON
 * MYSQL / SQLITE / POSTGRESQL 
-* PHP / JS / HTML / CSS
+* LARAVEL / PHP / JS / HTML / CSS 
 
-# Having experience in PYTHON 
+# Experienced with PYTHON 
 * Aiogram
 * Web-bot
 * DJango
